@@ -24,5 +24,6 @@ Thank you for visiting my profile!
 <a href="https://github.com/ibnuzaman">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibnuzaman&layout=compact&theme=algolia"/>
+   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=ibnuzaman&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
 </p>
