@@ -19,3 +19,10 @@ My goal is to continually evolve in the realm of software development, pursue ex
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ibnu-zaman-35911a1b4/). I am always open to meeting fellow developers and engaging in discussions about new ideas.
 
 Thank you for visiting my profile!
+
+<p align="left">
+<a href="https://github.com/ibnuzaman">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibnuzaman&layout=compact&theme=algolia"/>
+</a>
+</p>
