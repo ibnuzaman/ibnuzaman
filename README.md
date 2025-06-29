@@ -1,13 +1,13 @@
 ### Hola! 👋
 
-I'm Ibnu Zaman, an aspiring Informatics student at Ahmad Dahlan University. 🎓 I proudly graduated from Bangkit Academy, specializing in Cloud Computing.
+I am Ibnu Zaman, a graduate of Informatics at Ahmad Dahlan University. 🎓 I also graduated from Bangkit Academy, with specialization in Cloud Computing, independent internship at dinaskominfo DIY backend role. 
 
 #### About Me:
 - 🌐 **Education:** Informatics student at Ahmad Dahlan University
-- 🚀 **Graduate:** Bangkit Academy, Cloud Computing
+- 🚀 **Graduate:** Bangkit Academy, Cloud Computing | Diskominfo DIY, Backend (Go)
 
 #### Interests:
-- 💻 **Passionate About:** DevOps and Backend Web Development
+- 💻 **Passionate About:** Backend Development
 - 🌟 **Current Focus:** Exploring the intersection of technology and real-world solutions
 
 #### Let's Connect:
