@@ -4,7 +4,7 @@ I am Ibnu Zaman, a graduate of Informatics at Ahmad Dahlan University. 🎓 I al
 
 #### About Me:
 - 🌐 **Education:** Informatics student at Ahmad Dahlan University
-- 🚀 **Graduate:** Bangkit Academy, Cloud Computing | Internship Diskominfo DIY, Backend (Go) | Intenrship ILCS, Junior Backend Go
+- 🚀 **Graduate:** Bangkit Academy, Cloud Computing | Internship Diskominfo DIY, Backend (Go) | Intenrship ILCS, Junior Backend Go | Informatics student at Ahmad Dahlan University
 
 #### Interests:
 - 💻 **Passionate About:** Backend Development
